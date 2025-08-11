@@ -3,6 +3,7 @@ class CrateScraper:
 
     print("something")
     print("else")
+    print("lskdjf")
 
 
 
